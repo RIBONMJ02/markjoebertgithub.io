@@ -110,5 +110,5 @@ const firebaseConfig = {
    }
    
    function displayTable() {
-     window.location.href = "/app.html";
+     window.location.href = "app.html";
    }
